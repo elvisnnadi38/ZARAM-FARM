@@ -1,0 +1,65 @@
+.section1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8%;
+    background-color: green;
+    margin-bottom: 1%;
+}
+
+.section_c{
+    display:inline-block;
+    flex-basis: 50%;
+}
+
+.section_c h3{
+    margin-top: 3%;
+    font-size: medium;
+    font-family: Caprasimo;
+}
+
+.section_c i{
+    font-size: medium;
+    margin-left: 5%;
+    cursor: cell;
+    
+}
+.section1_nav{
+    flex-basis: 30%;
+   
+}
+
+.section1_nav nav{
+    display: inline-block;
+}
+
+.section1_nav nav ul{
+    display: inline-block;
+    /* margin-right: 1%; */
+    
+}
+
+.section1_nav nav ul li{
+    display: inline-block;
+    color: white;
+    /* flex-basis: 50%; */
+    /* margin-left: 8%; */
+    /* flex-basis: 50%; */
+}
+
+.section1_nav nav ul li a{
+    display: inline-block;
+    margin-right: 15px;
+    margin-top: 10px;
+    text-decoration: none;
+    color: black;
+    font-size: Caprasimo ;
+    font-weight: 900;
+}
+
+.section1_nav nav ul li a:hover{
+    color: rgb(236, 157, 157);
+    font-size: 20px;
+    transform: translateY(-10px);}
+
+
+ 

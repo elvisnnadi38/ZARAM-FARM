@@ -1,0 +1,36 @@
+.section_m{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(182, 252, 182);
+}
+
+.section_m_img{
+    flex-basis: 20%;
+}
+
+.section_m_img img{
+    height: 20vh;
+    border-radius: 50%;
+}
+
+
+.section_m_h{
+    flex-basis: 70%;
+}
+
+.section_m_h h1{
+    margin-left: 17%;
+    font-family:Caprasimo ;
+}
+
+.section_m h3{
+    margin-left: 17%;
+}
+
+.section_m h1 span{
+    color: green;
+}
+
+.section_m_h h3{
+    font-family: oxygen;
+}

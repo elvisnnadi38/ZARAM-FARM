@@ -1,0 +1,32 @@
+.footer1{
+    background: rgb(3, 182, 3);
+    margin-top: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30%;
+}
+
+.values h2{
+    font-family: Caprasimo;
+}
+
+.values p{
+    font-family: oxygen;
+}
+
+.location h2{
+    font-family: Caprasimo;
+}
+
+.location p{
+    font-family: oxygen;
+}
+
+.contact_us h2{
+    font-family: Caprasimo;
+}
+
+.contact_us p{
+    font-family: oxygen;
+}
+

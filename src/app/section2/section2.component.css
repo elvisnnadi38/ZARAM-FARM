@@ -1,0 +1,129 @@
+.section2 img{
+    width: 100%;
+    margin-top: 2%;
+    height: 95vh;
+}
+
+.sec3 h1{
+    font-family:Caprasimo ;
+    margin-top: 3%;
+}
+
+.sec3 h1 span{
+    color: green;
+}
+
+
+
+
+/* .sec3c{
+    background-color: gray;
+} */
+
+
+.sec3c_sec li{
+    margin-bottom: 17%;
+}
+
+.sec3c_sec{
+    list-style: none;
+    width: 100%;
+    height: 10%;
+}
+
+.sec3c_sec li{
+    background: rgb(221, 220, 220);
+}
+
+
+.sec3c_sec li{
+    display: block;
+    float: left;
+    width: 25%;
+    height: 10%;
+}
+
+.sec3c_sec_img{
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.sec3c_sec_img img{
+    width: 100%;
+    height: 33vh;
+    /* transform: scale(1.15); */
+    transition: transform 0.5s;
+}
+
+.sec3c_sec li h2{
+    font-family:Caprasimo ;
+}
+
+.sec3c_sec li h3{
+    font-family: oxygen;
+}
+
+
+
+
+
+
+
+.sec4c_sec li{
+    margin-bottom: 17%;
+}
+
+.sec4c_sec{
+    list-style: none;
+    width: 100%;
+    height: 10%;
+    margin-top: 16%;
+    margin-left: 0px;
+    margin-right: 100%;
+}
+
+.sec4c_sec li{
+    background: rgb(221, 220, 220);
+}
+
+
+.sec4c_sec li{
+    display: block;
+    float: left;
+    width: 25%;
+    height: 10%;
+}
+
+.sec4c_sec_img{
+    width: 100%;
+    margin: 0;
+    overflow: hidden;
+}
+
+.sec4c_sec_img img{
+    width: 100%;
+    height: 33vh;
+    /* transform: scale(1.15); */
+    transition: transform 0.5s;
+}
+
+.sec4c_sec li h2{
+    font-family:Caprasimo ;
+}
+
+.sec4c_sec li h3{
+    font-family: oxygen;
+}
+
+
+
+
+
+
+
+
+
+
+
+
